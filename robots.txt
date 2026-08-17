@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-du93n8.slotoduarx500.online/sitemap.xml
